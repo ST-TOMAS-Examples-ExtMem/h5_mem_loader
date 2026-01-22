@@ -14,7 +14,7 @@ Only USER memory used. Other were not tested
 
 # Create independent extmem_loader_manager
 
-[How to create extmem_loader_manager link](https://github.com/ST-TOMAS-Examples-ExtMem/h5_mem_loader/extmem_loader_manger)
+[How to create extmem_loader_manager link](https://github.com/ST-TOMAS-Examples-ExtMem/extmem_loader_manager)
 
 # Create MX project for H562
 
